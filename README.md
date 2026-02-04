@@ -72,4 +72,3 @@ If your code fails the automated tests, it is likely to encounter the same issue
 For full details, refer to the [documentation](https://lsy-drone-racing.readthedocs.io/en/latest/).
 
 ---
-# final_drone_racing
